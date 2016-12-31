@@ -5,3 +5,7 @@ StopWatch.java.
 
 To run this project use class NewThread.java as the main class.
 ----------------------------------------------------------------
+A jar file is also present in build/classes under the name of 
+StopWatch.jar one can directly run the StopWatch using this jar 
+file.
+----------------------------------------------------------------
