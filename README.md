@@ -6,7 +6,9 @@ Stopwatch is my first ever project in Java. It uses core concepts of Java like e
 
 StopWatch project conatains two classes newThread.java and
 StopWatch.java. To run this project use class newThread.java
-as the main class.  
+as the main class.
+<BR/>
+<BR/>
 <B> Edit </B> -
 A jar file is now added in build/classes under the name of 
 StopWatch.jar one can directly run the StopWatch using this jar 
