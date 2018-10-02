@@ -14,3 +14,6 @@ A jar file is now added in build/classes under the name of
 StopWatch.jar one can directly run the StopWatch using this jar 
 file. On windows one can directly run Stopwatch just by double
 clicking on StopWatch.jar file.
+
+# Contribute
+Feel free to contribute to project.PR's are welcome.
